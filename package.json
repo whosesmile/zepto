@@ -1,0 +1,9 @@
+{
+  "name": "zepto-on-demand",
+  "version": "1.0.0",
+  "description": "Only for personal rapid developing",
+  "main": "zepto.js",
+  "scripts": {},
+  "author": "whosesmile@gmail.com",
+  "license": "MIT",
+}
